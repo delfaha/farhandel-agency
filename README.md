@@ -123,7 +123,7 @@ Endpoints attendus par l'implémentation HTTP (à adapter au backend) :
 
 Site de démonstration : tout est centralisé dans `src/config/site.ts` et `index.html` (données structurées).
 
-- **Responsable** (« Nasra Ali Robleh », Senior Agent, 15+ ans) : personnage fictif.
+- **Responsable** : Farhan MED Waiss ; rôle et parcours affichés (Senior Agent, 15+ ans) : données de démonstration.
 - **Téléphone / WhatsApp** : `+253 01 23 45 67`, numéro non attribuable (les numéros de Djibouti commencent par 2 ou 7).
 - **Email** : `contact@farhandel-agency.example` (domaine réservé `.example`) ; **adresse** : centre-ville de Djibouti ;
   **horaires** non renseignés.

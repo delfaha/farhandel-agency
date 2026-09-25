@@ -1,6 +1,6 @@
 /**
  * Informations de l'agence.
- * Site de démonstration : responsable, téléphone, email et adresse sont FICTIFS
+ * Site de démonstration : téléphone, email, adresse et parcours du responsable sont FICTIFS
  * (voir README, section « Données fictives »).
  */
 export const SITE = {
@@ -12,10 +12,10 @@ export const SITE = {
   connecting: 'Connecting Djibouti to the World.',
   description:
     "FarhanDel Agency, agence de voyage aérien à Djibouti : réservation de billets d'avion, destinations, offres, check-in et statut des vols. 15+ ans d'expérience dans le secteur aérien.",
-  /** FICTIF : personnage de démonstration. */
+  /** Nom réel ; rôle, parcours et années d'expérience affichés : données de démonstration. */
   representative: {
-    name: 'Nasra Ali Robleh',
-    initials: 'NR',
+    name: 'Farhan MED Waiss',
+    initials: 'FW',
     role: "Responsable de l'agence",
     experience: 'Senior Agent — Aviation',
     years: 15,
@@ -48,7 +48,7 @@ export const INDEPENDENCE_NOTICE =
   "FarhanDel Agency est une agence de voyage indépendante. Elle n'est ni une filiale ni une agence officielle de Turkish Airlines ou de toute autre compagnie aérienne. Les noms de compagnies sont cités à titre informatif."
 
 export const DEMO_NOTICE =
-  "Site de démonstration : responsable, coordonnées, horaires, disponibilités et prix affichés sont fictifs et non contractuels. Aucune demande n'est réellement transmise."
+  "Site de démonstration : coordonnées, parcours, horaires, disponibilités et prix affichés sont fictifs et non contractuels. Aucune demande n'est réellement transmise."
 
 /** URL publique du site (VITE_SITE_URL en production, origine courante + chemin de base sinon). */
 export function siteUrl(path = ''): string {

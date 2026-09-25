@@ -83,7 +83,7 @@ export function Footer() {
 
         <p className="mt-8 max-w-4xl text-xs leading-relaxed text-white/45">{INDEPENDENCE_NOTICE}</p>
         <p className="mt-2 max-w-4xl text-xs leading-relaxed text-white/45">
-          Site de démonstration : le responsable, les coordonnées, les prix, horaires, disponibilités et statuts affichés sont fictifs. Photographies :
+          Site de démonstration : les coordonnées, le parcours, les prix, horaires, disponibilités et statuts affichés sont fictifs. Photographies :
           Unsplash (licence Unsplash).
         </p>
 
