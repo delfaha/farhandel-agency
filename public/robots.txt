@@ -1,0 +1,10 @@
+# FarhanDel Agency — robots.txt
+# Sur GitHub Pages (sous-dossier), les robots ne lisent que le robots.txt situé à la racine du domaine.
+User-agent: *
+Allow: /
+Disallow: /espace-client
+Disallow: /connexion
+Disallow: /inscription
+Disallow: /design-system
+
+Sitemap: https://delfaha.github.io/farhandel-agency/sitemap.xml
